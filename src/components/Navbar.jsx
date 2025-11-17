@@ -11,7 +11,7 @@ export default function Navbar() {
 
   return (
     <nav className="navbar">
-      <h1>🌴 KL TravelEase</h1>
+      <h1>🌴 2300039110</h1>
       <ul>
         {!isLoggedIn && (
           <>
